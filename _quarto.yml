@@ -3,6 +3,16 @@ project:
   output-dir: docs
 website:
   title: "mayamccain.github.io"
+  image: Screen Shot 2025-01-28 at 11.23.34 AM Large.jpeg
+  about:
+    template: marquee
+    image-shape: rectangle
+    image-width: 10em
+    links:
+      - text: LinkedIn
+        href: //www.linkedin.com/in/maya-mccain-115441327 
+      - text: Email
+        href: //maya.mccain@colostate.edu
   navbar:
     left:
       - href: index.qmd
