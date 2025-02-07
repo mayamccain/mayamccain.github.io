@@ -3,7 +3,7 @@ project:
   output-dir: docs
 website:
   title: "mayamccain.github.io"
-  image: Screen Shot 2025-01-28 at 11.23.34 AM Large.jpeg
+  image: trinity.jpeg
   about:
     template: marquee
     image-shape: rectangle
