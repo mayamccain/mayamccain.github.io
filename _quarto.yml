@@ -3,21 +3,12 @@ project:
   output-dir: docs
 website:
   title: "mayamccain.github.io"
-  image: trinity.jpeg
-  about:
-    template: marquee
-    image-shape: rectangle
-    image-width: 10em
-    links:
-      - text: LinkedIn
-        href: //www.linkedin.com/in/maya-mccain-115441327 
-      - text: Email
-        href: //maya.mccain@colostate.edu
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
 
 format:
   html:

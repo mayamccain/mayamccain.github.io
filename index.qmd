@@ -1,5 +1,21 @@
 ---
 title: "mayamccain.github.io"
+image: trinity.jpeg
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: LinkedIn
+      href: //www.linkedin.com/in/maya-mccain-115441327 
+    - text: Email
+      href: //maya.mccain@colostate.edu
+---
+Colorado State University, Warner College of Natural Resources
+
+Major: Ecosystem Science & Sustainability
+
+Minor: Watershed Science
 ---
 
 This is a Quarto website.
