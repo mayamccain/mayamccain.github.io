@@ -1,6 +1,6 @@
 ---
 title: "mayamccain.github.io"
-image: trinity.jpeg
+image: mayaheadshot.jpeg
 about:
   template: marquee
   image-shape: rectangle
@@ -11,6 +11,8 @@ about:
     - text: Email
       href: //maya.mccain@colostate.edu
 ---
+
+Maya McCain
 
 Colorado State University, Warner College of Natural Resources
 

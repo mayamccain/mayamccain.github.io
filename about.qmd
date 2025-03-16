@@ -1,9 +1,12 @@
 ---
 title: "About"
+image: trinity.jpeg
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 10em
 ---
 
-About this site
+Maya McCain
 
-```{r}
-1 + 1
-```
+I am a third year student at Colorado State University studying Ecosystem Science & Sustainability. I have an interest in freshwater systems, so I am minoring in Watershed Science. I aspire to connect my knowledge in both realms in order to forge a fulfilling career in the natural resources field.

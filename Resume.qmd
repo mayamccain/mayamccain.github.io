@@ -1,9 +1,10 @@
 ---
 title: "Resume"
-author: "mayamccain"
 ---
 
-Maya McCain Fort Collins, CO
+Maya McCain
+
+Fort Collins, CO
 
 SUMMARY
 
