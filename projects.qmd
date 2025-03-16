@@ -2,4 +2,13 @@
 title: "CSU Projects"
 ---
 
-In the Spring of 2025, I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+In the Spring of 2025, I took a Quantitative Reasoning class based in R. Below are a few projects from this course.
+
+## [Building a project website](https://mayamccain.github.io/)
+
+- In this assignment, we built a static users site with Github Pages.
+- Includes a github repo for access to all the code.
+
+## [Manipulating and summarizing data with dplyr](lab02.html)
+
+- In this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.

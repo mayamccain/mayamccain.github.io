@@ -25,6 +25,34 @@
     "href": "projects.html",
     "title": "CSU Projects",
     "section": "",
-    "text": "In the Spring of 2025, I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "In the Spring of 2025, I took a Quantitative Reasoning class based in R. Below are a few projects from this course."
+  },
+  {
+    "objectID": "projects.html#building-a-project-websitehttpsmayamccain.github.io",
+    "href": "projects.html#building-a-project-websitehttpsmayamccain.github.io",
+    "title": "CSU Projects",
+    "section": "[Building a project website](https://mayamccain.github.io/)",
+    "text": "[Building a project website](https://mayamccain.github.io/)\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code."
+  },
+  {
+    "objectID": "projects.html#building-a-project-website-httpsmayamccain.github.io",
+    "href": "projects.html#building-a-project-website-httpsmayamccain.github.io",
+    "title": "CSU Projects",
+    "section": "Building a project website (https://mayamccain.github.io/)",
+    "text": "Building a project website (https://mayamccain.github.io/)\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code."
+  },
+  {
+    "objectID": "projects.html#building-a-project-website",
+    "href": "projects.html#building-a-project-website",
+    "title": "CSU Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment, we built a static users site with Github Pages.\nIncludes a github repo for access to all the code."
+  },
+  {
+    "objectID": "projects.html#manipulating-and-summarizing-data-with-dplyr",
+    "href": "projects.html#manipulating-and-summarizing-data-with-dplyr",
+    "title": "CSU Projects",
+    "section": "Manipulating and summarizing data with dplyr",
+    "text": "Manipulating and summarizing data with dplyr\n\nIn this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota."
   }
 ]

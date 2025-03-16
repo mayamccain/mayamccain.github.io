@@ -9,7 +9,9 @@ about:
     - text: LinkedIn
       href: //www.linkedin.com/in/maya-mccain-115441327 
     - text: Email
-      href: //"maya.mccain@colostate.edu"
+      href: //maya.mccain@colostate.edu 
+    - text: GitHub
+      href: //https://github.com/mayamccain
 ---
 
 Maya McCain
