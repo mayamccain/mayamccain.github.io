@@ -1,6 +1,6 @@
 ---
 title: "mayamccain.github.io"
-image: mayaheadshot.jpeg
+image: profile_photo.jpg
 about:
   template: marquee
   image-shape: rectangle

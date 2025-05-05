@@ -54,5 +54,12 @@
     "title": "CSU Projects",
     "section": "Manipulating and summarizing data with dplyr",
     "text": "Manipulating and summarizing data with dplyr\n\nIn this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota."
+  },
+  {
+    "objectID": "projects.html#data-wrangling-and-visualization",
+    "href": "projects.html#data-wrangling-and-visualization",
+    "title": "CSU Projects",
+    "section": "Data Wrangling and Visualization",
+    "text": "Data Wrangling and Visualization"
   }
 ]

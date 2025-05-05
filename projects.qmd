@@ -12,3 +12,5 @@ In the Spring of 2025, I took a Quantitative Reasoning class based in R. Below a
 ## [Manipulating and summarizing data with dplyr](lab02.html)
 
 - In this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.
+
+## [Data Wrangling and Visualization]()
