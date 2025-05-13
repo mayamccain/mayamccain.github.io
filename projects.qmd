@@ -2,62 +2,95 @@
 title: "CSU ESS 330 Projects"
 ---
 
-ESS 330: Quantitative Reasoning for Ecosystem Science
+**ESS 330: Quantitative Reasoning for Ecosystem Science**
 
 Mike Johnson, PhD, Jaque McVey, Alan Cai
 
 Spring 2025
 
-Below are a few of my projects from Quantitative Reasoning based in R.
+Below are a few of my projects based in R from Quantitative Reasoning.
+
+```{r}
+knitr::include_graphics("img/github_image.jpg")
+```
 
 ## Projects Website
+
 [Lab 1: Personal Portfolio](https://mayamccain.github.io/)
 
-- Built a static users site with Github Pages.
-- Includes a github repo for access to all the code.
+-   Built a static users site with Github Pages.
+-   Includes a github repo for access to all the code.
 
+```{r}
+knitr::include_graphics("img/minnesota_trees.jpg")
+```
 ## Manipulating and Summarizing Data with dplyr
+
 [Lab 2: Minnesota Tree Growth](lab02.html)
 
-- Explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.
+-   Explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.
 
+```{r}
+knitr::include_graphics("img/covid.jpg")
+```
 ## Data Wrangling and Visualization
+
 [Lab 3: COVID-19](lab-03.html)
 
-- Worked with a large COVID dataset.
-- Practiced data management by creating reports and visualizations.
+-   Worked with a large COVID dataset.
+-   Practiced data management by creating reports and visualizations.
 
+```{r}
+knitr::include_graphics("img/LTER.png")
+```
 ## Statistics in R
+
 [Lab 4: LTER Network Data](lab4.html)
 
-- Conducted basic statistical tests in R such as chi-square, t-tests, and correlation tests.
-- Utilized Long-Term Ecological Research (LTER) Network Data to conduct statistical tests and interpret results. 
+-   Conducted basic statistical tests in R such as chi-square, t-tests, and correlation tests.
+-   Utilized Long-Term Ecological Research (LTER) Network Data to conduct statistical tests and interpret results.
 
+```{r}
+knitr::include_graphics("img/tidymodels.png")
+```
 ## Using Tidymodels & CAMELS Data
+
 [Lab 6: Machine Learning in Hydrology](lab-06.html)
 
-- Utilized tidymodels, a helpful tool for machine learning and statistical modeling in R. 
-- Worked with the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies), a large dataset of many characteristics of river basins in the United States.
-- Explored predictive modeling.
+-   Utilized tidymodels, a helpful tool for machine learning and statistical modeling in R.
+-   Worked with the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies), a large dataset of many characteristics of river basins in the United States.
+-   Explored predictive modeling.
 
+```{r}
+knitr::include_graphics("img/machine_learning.webp")
+```
 ## Machine Learning
+
 [Lab 8: The Whole Game Plan](hyperparameter-tuning.html)
 
-- Created a machine learning pipeline by putting together knowledge of the full machine learning process. 
-- Included feature engineering, resampling, machine learning goals, types of models and R engines, performance evaluation, and final model tuning.
+-   Created a machine learning pipeline by putting together knowledge of the full machine learning process.
+-   Included feature engineering, resampling, machine learning goals, types of models and R engines, performance evaluation, and final model tuning.
 
+```{r}
+knitr::include_graphics("img/global_map.jpg")
+```
 ## Distances and Projections
+
 [Lab 10: Distance from the Border Zone](lab-10.html)
 
-- Visualized data on a spatial scale. 
-- Injested and built simple feature objects from R packages and CSVs.
-- Manipulated geometries and coordinate systems.
-- Calculated distances and built maps using ggplot. 
+-   Visualized data on a spatial scale.
+-   Injested and built simple feature objects from R packages and CSVs.
+-   Manipulated geometries and coordinate systems.
+-   Calculated distances and built maps using ggplot.
 
+```{r}
+knitr::include_graphics("img/poudre.jpg")
+```
 ## Final Project: Snow Water Equivalent and Streamflow
+
 [Lab 5: Quarto Manscripts & Ideation, Lab 7: Introduction, Data, Methods, Lab 9: Results and Discussion](https://mayamccain.github.io/ess-330-lab-07/index.html)
 
-- Explored tools and functionality of Quarto Manuscripts.
-- Synthesized literature to explore the relationship between snow water equivalent (SWE) and streamflow
-- Worked with SWE and streamflow data to analyze statistical tests, time series analysis, and correlations between variables. 
-- Wrote a scientific research-style paper reporting findings and data analysis. 
+-   Explored tools and functionality of Quarto Manuscripts.
+-   Synthesized literature to explore the relationship between snow water equivalent (SWE) and streamflow
+-   Worked with SWE and streamflow data to analyze statistical tests, time series analysis, and correlations between variables.
+-   Wrote a scientific research-style paper reporting findings and data analysis.

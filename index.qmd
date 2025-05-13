@@ -1,5 +1,5 @@
 ---
-title: "mayamccain.github.io"
+title: "Maya McCain"
 image: profile_photo.jpg
 about:
   template: marquee
@@ -9,12 +9,11 @@ about:
     - text: LinkedIn
       href: //www.linkedin.com/in/maya-mccain-115441327 
     - text: Email
-      href: //maya.mccain@colostate.edu 
+      href: //maya.mccain@colostate.edu
+       
     - text: GitHub
       href: //https://github.com/mayamccain
 ---
-
-Maya McCain
 
 Colorado State University, Warner College of Natural Resources
 
