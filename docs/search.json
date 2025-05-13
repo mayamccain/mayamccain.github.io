@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Maya McCain\nI am a third-year student at Colorado State University studying Ecosystem Science & Sustainability. I have an interest in freshwater systems, so I am minoring in Watershed Science. I aspire to connect my knowledge in both realms in order to forge a fulfilling career in the natural resources field.\nI have experience doing undergraduate research with the Cusack Ecosystem Lab focusing on drought in tropical ecosystems and its effects on root and soil dynamics. During my participation in a watershed science field course, I gained hands-on experience with active restoration projects. Learning about globalization and sustainable development from a study abroad course in Costa Rica provided me with a new perspective on how natural resources are handled around the world.\nIn my free time, I enjoy participating in outdoor activities such as climbing, skiing, slack-lining, backpacking, and more. I am fond of building my community and listening to live music as well."
+    "text": "I am a third-year student at Colorado State University studying Ecosystem Science & Sustainability. I have an interest in freshwater systems, so I am minoring in Watershed Science. I aspire to connect my knowledge in both realms in order to forge a fulfilling career in the natural resources field.\nI have experience doing undergraduate research with the Cusack Ecosystem Lab focusing on drought in tropical ecosystems and its effects on root and soil dynamics. During my participation in a watershed science field course, I gained hands-on experience with active restoration projects. Learning about globalization and sustainable development from a study abroad course in Costa Rica provided me with a new perspective on how natural resources are handled around the world.\nIn my free time, I enjoy participating in outdoor activities such as climbing, skiing, slack-lining, backpacking, and more. I am fond of building my community and listening to live music as well."
   },
   {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Maya McCain\nFort Collins, CO\nSUMMARY\nI am a motivated student at Colorado State University with field course, research, restaurant, and volunteer experience. My passion for the natural world drives me to pursue a career in the natural resources field. My strengths include strong observational skills, adaptability in field conditions, teamwork, and proficiency in data collection.\nEDUCATION\nColorado State University, B.S. Ecosystem Science and Sustainability, Minor in Watershed Science August 2024-Present 4.0 GPA, Anticipated Graduation May 2026 Fort Collins, Colorado Cal Poly Humboldt, Environmental Science and Management, Two years completed August 2022-May 2024 4.0 GPA Arcata, California\nRELEVANT EXPERIENCE\nUndergraduate Research Assistant, Cusack Ecosystem Lab September 2024 - Present Fort Collins, Colorado Processing tropical soils by weighing, drying, and recording measurements ensuring accurate data collection Effectively communicating with colleagues, graduate students, and professors to establish a collaborative work environment\nWatershed Science Field Course, Mattole Restoration Council May 13 - May 17, 2024 Petrolia, California Participated in hands-on experiences with active restoration projects Volunteered at the Mattole Native Plant Nursery processing seeds and planting starters Learned from professionals working on different aspects of restoration, including the use of prescribed burning\nServer/Host, The Pub at the Creamery March 2023 - May 2024 Arcata, California Provided customer service in a fast-paced environment, ensuring a positive dining experience Efficiently took orders from and served guests while effectively managing multiple tables Trained new employees on restaurant protocols, menu items, and customer service techniques Efficiently communicated with the kitchen, serving, and bartending staff to ensure good service\nInternational Environmental Issues and Globalization Study Abroad Course, Earth Education International San Ramon, Costa Rica May 22 - June 2, 2023 Engaged with different aspects of sustainable development and ecotourism in Costa Rica Visited a hydroelectric power plant, a women-run Co-Op, and a drinking water facility Planted trees to aid local restoration efforts\nVolunteer, Friends of the Dunes September 16, 2023 Arcata, California Removed invasive species from sand dunes, supporting restoration efforts of the dunes Utilized plant removal techniques to effectively remove species Identified invasive species, ensuring removal of the correct species\nRELEVANT COURSEWORK\nEnvironmental Conflict Resolution, Environmental Law and Regulation, Environmental Methods, Ecosystem Ecology, Forest and Rangeland Policy, General Botany, Geospatial Concepts, Introduction to Soil Science, Physical Geography"
+    "text": "Maya McCain\nFort Collins, Colorado"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mayamccain.github.io",
+    "title": "Maya McCain",
     "section": "",
-    "text": "Maya McCain\nColorado State University, Warner College of Natural Resources\nMajor: Ecosystem Science & Sustainability\nMinor: Watershed Science"
+    "text": "Colorado State University, Warner College of Natural Resources\nMajor: Ecosystem Science & Sustainability\nMinor: Watershed Science"
   },
   {
     "objectID": "projects.html",
@@ -103,5 +103,33 @@
     "title": "CSU ESS 330 Projects",
     "section": "Final Project: Snow Water Equivalent and Streamflow",
     "text": "Final Project: Snow Water Equivalent and Streamflow\nLab 5: Quarto Manscripts & Ideation, Lab 7: Introduction, Data, Methods, Lab 9: Results and Discussion\n\nExplored tools and functionality of Quarto Manuscripts.\nSynthesized literature to explore the relationship between snow water equivalent (SWE) and streamflow\nWorked with SWE and streamflow data to analyze statistical tests, time series analysis, and correlations between variables.\nWrote a scientific research-style paper reporting findings and data analysis."
+  },
+  {
+    "objectID": "Resume.html#summary",
+    "href": "Resume.html#summary",
+    "title": "Resume",
+    "section": "Summary",
+    "text": "Summary\nI am a motivated student at Colorado State University with field course, research, restaurant, and volunteer experience. My passion for the natural world drives me to pursue a career in the natural resources field. My strengths include strong observational skills, adaptability in field conditions, teamwork, and proficiency in data collection."
+  },
+  {
+    "objectID": "Resume.html#education",
+    "href": "Resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nColorado State University, B.S. Ecosystem Science and Sustainability, Minor in Watershed Science August 2024-Present 4.0 GPA, Anticipated Graduation May 2026 Fort Collins, Colorado\nCalifornia Polytechnic State University, Humboldt, Environmental Science and Management, Two years completed, 4.0 GPA, August 2022-May 2024, Arcata, California"
+  },
+  {
+    "objectID": "Resume.html#experience",
+    "href": "Resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nUndergraduate Research Assistant, Cusack Ecosystem Lab September 2024 - Present Fort Collins, Colorado\nProcessing tropical soils by weighing, drying, and recording measurements ensuring accurate data collection Effectively communicating with colleagues, graduate students, and professors to establish a collaborative work environment\nWatershed Science Field Course, Mattole Restoration Council May 13 - May 17, 2024 Petrolia, California\nParticipated in hands-on experiences with active restoration projects Volunteered at the Mattole Native Plant Nursery processing seeds and planting starters Learned from professionals working on different aspects of restoration, including the use of prescribed burning\nServer/Host, The Pub at the Creamery March 2023 - May 2024 Arcata, California\nProvided customer service in a fast-paced environment, ensuring a positive dining experience Efficiently took orders from and served guests while effectively managing multiple tables Trained new employees on restaurant protocols, menu items, and customer service techniques Efficiently communicated with the kitchen, serving, and bartending staff to ensure good service\nInternational Environmental Issues and Globalization Study Abroad Course, Earth Education International San Ramon, Costa Rica May 22 - June 2, 2023\nEngaged with different aspects of sustainable development and ecotourism in Costa Rica Visited a hydroelectric power plant, a women-run Co-Op, and a drinking water facility Planted trees to aid local restoration efforts\nVolunteer, Friends of the Dunes September 16, 2023 Arcata, California\nRemoved invasive species from sand dunes, supporting restoration efforts of the dunes Utilized plant removal techniques to effectively remove species Identified invasive species, ensuring removal of the correct species"
+  },
+  {
+    "objectID": "Resume.html#coursework",
+    "href": "Resume.html#coursework",
+    "title": "Resume",
+    "section": "Coursework",
+    "text": "Coursework\nEnvironmental Conflict Resolution, Environmental Law and Regulation, Environmental Methods, Ecosystem Ecology, Forest and Rangeland Policy, General Botany, Geospatial Concepts, Introduction to Soil Science, Physical Geography, Quantitative Reasoning for Ecosystem Science, Sustainability Science, Introduction to R Programming, Public Communication in Natural Resources"
   }
 ]
