@@ -1,16 +1,63 @@
 ---
-title: "CSU Projects"
+title: "CSU ESS 330 Projects"
 ---
 
-In the Spring of 2025, I took a Quantitative Reasoning class based in R. Below are a few projects from this course.
+ESS 330: Quantitative Reasoning for Ecosystem Science
 
-## [Building a project website](https://mayamccain.github.io/)
+Mike Johnson, PhD, Jaque McVey, Alan Cai
 
-- In this assignment, we built a static users site with Github Pages.
+Spring 2025
+
+Below are a few of my projects from Quantitative Reasoning based in R.
+
+## Projects Website
+[Lab 1: Personal Portfolio](https://mayamccain.github.io/)
+
+- Built a static users site with Github Pages.
 - Includes a github repo for access to all the code.
 
-## [Manipulating and summarizing data with dplyr](lab02.html)
+## Manipulating and Summarizing Data with dplyr
+[Lab 2: Minnesota Tree Growth](lab02.html)
 
-- In this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.
+- Explored data manipulation using dplyr using a long term tree growth observation record from Minnesota.
 
-## [Data Wrangling and Visualization]()
+## Data Wrangling and Visualization
+[Lab 3: COVID-19](lab-03.html)
+
+- Worked with a large COVID dataset.
+- Practiced data management by creating reports and visualizations.
+
+## Statistics in R
+[Lab 4: LTER Network Data](lab4.html)
+
+- Conducted basic statistical tests in R such as chi-square, t-tests, and correlation tests.
+- Utilized Long-Term Ecological Research (LTER) Network Data to conduct statistical tests and interpret results. 
+
+## Using Tidymodels & CAMELS Data
+[Lab 6: Machine Learning in Hydrology](lab-06.html)
+
+- Utilized tidymodels, a helpful tool for machine learning and statistical modeling in R. 
+- Worked with the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies), a large dataset of many characteristics of river basins in the United States.
+- Explored predictive modeling.
+
+## Machine Learning
+[Lab 8: The Whole Game Plan](hyperparameter-tuning.html)
+
+- Created a machine learning pipeline by putting together knowledge of the full machine learning process. 
+- Included feature engineering, resampling, machine learning goals, types of models and R engines, performance evaluation, and final model tuning.
+
+## Distances and Projections
+[Lab 10: Distance from the Border Zone](lab-10.html)
+
+- Visualized data on a spatial scale. 
+- Injested and built simple feature objects from R packages and CSVs.
+- Manipulated geometries and coordinate systems.
+- Calculated distances and built maps using ggplot. 
+
+## Final Project: Snow Water Equivalent and Streamflow
+[Lab 5: Quarto Manscripts & Ideation, Lab 7: Introduction, Data, Methods, Lab 9: Results and Discussion](https://mayamccain.github.io/ess-330-lab-07/index.html)
+
+- Explored tools and functionality of Quarto Manuscripts.
+- Synthesized literature to explore the relationship between snow water equivalent (SWE) and streamflow
+- Worked with SWE and streamflow data to analyze statistical tests, time series analysis, and correlations between variables. 
+- Wrote a scientific research-style paper reporting findings and data analysis. 

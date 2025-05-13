@@ -23,9 +23,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "CSU Projects",
+    "title": "CSU ESS 330 Projects",
     "section": "",
-    "text": "In the Spring of 2025, I took a Quantitative Reasoning class based in R. Below are a few projects from this course."
+    "text": "ESS 330: Quantitative Reasoning for Ecosystem Science\nMike Johnson, PhD, Jaque McVey, Alan Cai\nSpring 2025\nBelow are a few of my projects from Quantitative Reasoning based in R."
   },
   {
     "objectID": "projects.html#building-a-project-websitehttpsmayamccain.github.io",
@@ -51,15 +51,57 @@
   {
     "objectID": "projects.html#manipulating-and-summarizing-data-with-dplyr",
     "href": "projects.html#manipulating-and-summarizing-data-with-dplyr",
-    "title": "CSU Projects",
-    "section": "Manipulating and summarizing data with dplyr",
-    "text": "Manipulating and summarizing data with dplyr\n\nIn this assignment, we explored data manipulation using dplyr using a long term tree growth observation record from Minnesota."
+    "title": "CSU ESS 330 Projects",
+    "section": "Manipulating and Summarizing Data with dplyr",
+    "text": "Manipulating and Summarizing Data with dplyr\nLab 2: Minnesota Tree Growth\n\nExplored data manipulation using dplyr using a long term tree growth observation record from Minnesota."
   },
   {
     "objectID": "projects.html#data-wrangling-and-visualization",
     "href": "projects.html#data-wrangling-and-visualization",
-    "title": "CSU Projects",
+    "title": "CSU ESS 330 Projects",
     "section": "Data Wrangling and Visualization",
-    "text": "Data Wrangling and Visualization"
+    "text": "Data Wrangling and Visualization\nLab 3: COVID-19\n\nWorked with a large COVID dataset.\nPracticed data management by creating reports and visualizations."
+  },
+  {
+    "objectID": "projects.html#projects-website",
+    "href": "projects.html#projects-website",
+    "title": "CSU ESS 330 Projects",
+    "section": "Projects Website",
+    "text": "Projects Website\nLab 1: Personal Portfolio\n\nBuilt a static users site with Github Pages.\nIncludes a github repo for access to all the code."
+  },
+  {
+    "objectID": "projects.html#statistics-in-r",
+    "href": "projects.html#statistics-in-r",
+    "title": "CSU ESS 330 Projects",
+    "section": "Statistics in R",
+    "text": "Statistics in R\nLab 4: LTER Network Data\n\nConducted basic statistical tests in R such as chi-square, t-tests, and correlation tests.\nUtilized Long-Term Ecological Research (LTER) Network Data to conduct statistical tests and interpret results."
+  },
+  {
+    "objectID": "projects.html#using-tidymodels-camels-data",
+    "href": "projects.html#using-tidymodels-camels-data",
+    "title": "CSU ESS 330 Projects",
+    "section": "Using Tidymodels & CAMELS Data",
+    "text": "Using Tidymodels & CAMELS Data\nLab 6: Machine Learning in Hydrology\n\nUtilized tidymodels, a helpful tool for machine learning and statistical modeling in R.\nWorked with the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies), a large dataset of many characteristics of river basins in the United States.\nExplored predictive modeling."
+  },
+  {
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
+    "title": "CSU ESS 330 Projects",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nLab 8: The Whole Game Plan\n\nCreated a machine learning pipeline by putting together knowledge of the full machine learning process.\nIncluded feature engineering, resampling, machine learning goals, types of models and R engines, performance evaluation, and final model tuning."
+  },
+  {
+    "objectID": "projects.html#distances-and-projections",
+    "href": "projects.html#distances-and-projections",
+    "title": "CSU ESS 330 Projects",
+    "section": "Distances and Projections",
+    "text": "Distances and Projections\nLab 10: Distance from the Border Zone\n\nVisualized data on a spatial scale.\nInjested and built simple feature objects from R packages and CSVs.\nManipulated geometries and coordinate systems.\nCalculated distances and built maps using ggplot."
+  },
+  {
+    "objectID": "projects.html#final-project-snow-water-equivalent-and-streamflow",
+    "href": "projects.html#final-project-snow-water-equivalent-and-streamflow",
+    "title": "CSU ESS 330 Projects",
+    "section": "Final Project: Snow Water Equivalent and Streamflow",
+    "text": "Final Project: Snow Water Equivalent and Streamflow\nLab 5: Quarto Manscripts & Ideation, Lab 7: Introduction, Data, Methods, Lab 9: Results and Discussion\n\nExplored tools and functionality of Quarto Manuscripts.\nSynthesized literature to explore the relationship between snow water equivalent (SWE) and streamflow\nWorked with SWE and streamflow data to analyze statistical tests, time series analysis, and correlations between variables.\nWrote a scientific research-style paper reporting findings and data analysis."
   }
 ]
